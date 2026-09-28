@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant in the Department of Mathematics at The Chinese University of Hong Kong, under the supervision of [Professor Gary P. T. Choi](https://garyptchoi.github.io/index.html).  My research interests include computational mathematics, with a particular focus on mathematical modeling.
+I am a Research Assistant in the [Department of Mathematics](https://www.math.cuhk.edu.hk/) at The Chinese University of Hong Kong, under the supervision of [Professor Gary P. T. Choi](https://garyptchoi.github.io/index.html).  My research interests include computational mathematics, with a particular focus on mathematical modeling.
 
 In my leisure time, I enjoy [Cantopop](https://www.youtube.com/watch?v=oSeRj1sW3To) and [Japanese anime](https://www.youtube.com/watch?v=iMDNAKGO0NU), whose creativity often inspires my work.
 

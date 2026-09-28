@@ -4,7 +4,7 @@ collection: teaching
 type: "Enrichment Programme for Young Mathematics Talent"
 permalink: /teaching/ntc
 venue: "Department of Mathematics, The Chinese University of Hong Kong"
-date: Aug 2024, Aug 2026
+date: 2024-08-01
 location: "Hong Kong"
 ---
 

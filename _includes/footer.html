@@ -1,5 +1,5 @@
-<footer class="page__footer" style="padding: 10px 0 !important; margin-top: 2rem !important; min-height: auto !important;">
-  <div class="page__footer-copyright" style="text-align: center; padding: 0 !important; margin: 0 auto !important; font-size: 0.85rem; line-height: 1.2;">
-    © 2026 CHOI Man Hin (Mike) &bull; <a href="/about-page/">About this page</a>
-  </div>
-</footer>
+{% include base_path %}
+
+<div class="page__footer-copyright" style="float: none; width: 100%; text-align: center;">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} &bull; <a href="{{ base_path }}/about-page/">About this page</a>
+</div>

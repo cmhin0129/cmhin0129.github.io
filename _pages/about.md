@@ -12,7 +12,7 @@ I am a Research Assistant in the Department of Mathematics at The Chinese Univer
 In my leisure time, I enjoy [Cantopop](https://www.youtube.com/watch?v=oSeRj1sW3To) and [Japanese anime](https://www.youtube.com/watch?v=iMDNAKGO0NU), whose creativity often inspires my work.
 
 ## Education
-* **B.Sc. in Mathematics** (Minor in Statistics), The Chinese University of Hong Kong, *[2021 – 2026]*
+* **B.Sc. in Mathematics** (Minor in Statistics), The Chinese University of Hong Kong, 2021 – 2026
 
 ## Skills
 * **Programming:** R, MATLAB, Python, SQL

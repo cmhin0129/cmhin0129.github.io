@@ -23,7 +23,7 @@ repository               : "mikemhchoi/mikemhchoi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.JPEG"
   name             : "CHOI Man Hin (Mike)"
   pronouns         : # example: "she/her"  
   bio              : "In this Hong Kong name, the surname is Choi. In accordance with Hong Kong custom, the Western-style name is Mike Choi and the Chinese-style name is Choi Man Hin."

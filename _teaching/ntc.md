@@ -1,11 +1,12 @@
 ---
+layout: page
 title: "SAYT1114 Number Theory and Cryptography"
 collection: teaching
-type: "Enrichment Programme for Young Mathematics Talent"
 permalink: /teaching/ntc
-venue: "Department of Mathematics, The Chinese University of Hong Kong"
-location: "Hong Kong"
+author_profile: true
 ---
+
+Enrichment Programme for Young Mathematics Talent, *Department of Mathematics, The Chinese University of Hong Kong*
 
 **Role:** Teaching Assistant  
 **Instructors:** 2026: Dr. Kelvin Chun Lung LIU; 2024: Dr. Kai Leung CHAN  
